@@ -9,3 +9,6 @@ The Totro toggle switch is a fun and whimsical way to add a bit of personality t
 
 ## Contributing
 If you would like to contribute to this project, please feel free to submit a pull request. All contributions are welcome and appreciated.
+
+## Preview
+<img width="960" alt="Screenshot 2023-03-22 155859" src="https://user-images.githubusercontent.com/59678435/226877325-a5e738ed-891a-41eb-85b3-e71f2695d52f.png">
